@@ -1,6 +1,6 @@
 # CountryApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+El objetivo de este proyecto es la solificación de conceptos en Angular (en este caso se trabaja con la v16). Se hace uso de elementos http, donde se consume una API de restcountries, se generan rutas, lazy loading, debouncers, servicios, etc... Todo con el fin de practicar en el framework.
 
 ## Development server
 
